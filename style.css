@@ -426,7 +426,7 @@ a:hover{
 	background-repeat: no-repeat;
 }
 .banner_bg{
-	background-image: url(../images/mrs-dube-banner.jpg);
+	background-image: url(mrs-dube-banner.jpg);
 	background-size: cover;
 	background-position: center center;
 	position: relative;
@@ -638,7 +638,7 @@ a:hover{
     [ 07 Start Cta ]
 -----------------------------------------------------------------*/
 .cta_section{
-	background: url(../images/zebra-cta-action.jpg);
+	background: url(zebra-cta-action.jpg);
 	position: relative;
     background-size: cover;
     background-attachment: fixed;
